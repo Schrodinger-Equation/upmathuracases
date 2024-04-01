@@ -1,1 +1,39 @@
-PRANK
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>April Fools' Day Prank</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+  }
+  .prank-message {
+    margin-top: 100px;
+    font-size: 24px;
+    color: #ff4500;
+  }
+  .button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .button:hover {
+    background-color: #45a049;
+  }
+</style>
+</head>
+<body>
+  <div class="prank-message">
+    <p>April Fools!</p>
+    <p>You've been pranked! There's nothing to see here except a good ol' April Fools' Day joke. Have a laugh and enjoy the rest of your day! 🤪</p>
+    <button class="button" onclick="window.location.href='https://www.youtube.com/watch?v=dQw4w9WgXcQ';">Click Here</button>
+  </div>
+</body>
+</html>
